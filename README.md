@@ -13,7 +13,7 @@ I'm always up for meeting new people and hearing what they're passionate about. 
 
 ## 👀 Tech Stack
 
-**Client:** JS, HTML, CSS, BootStrap
+**Client:** ReactJS, JS, HTML, CSS, BootStrap
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/PetarStoev02)
